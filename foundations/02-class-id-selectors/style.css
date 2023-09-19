@@ -1,0 +1,17 @@
+.oddnumbers{
+    color:black;
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.oddnumbers#third{
+    font-size: 24px;
+}
+#two{
+    color: blue;
+    font-size: 34px;
+}
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
